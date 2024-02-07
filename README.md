@@ -27,7 +27,8 @@ La finalidad de "El Encuentro" es satisfacer las necesidades de los clientes que
   - WebStorm para el desarrollo del Front-End con React, Bootstrap 5 y CSS.
   - AWS EC2 para desplegar la página a través de una instancia con IP elástica.
   - Xampp para gestionar PHPmyAdmin y comprobar datos en la base de datos.
- Cabe destacar que en el futuro, conforme el proyecto vaya evolucionando, existe la posibilidad de incorporar otras herramientas adicionales que puedan ser necesarias para su desarrollo
+
+Cabe destacar que en el futuro, conforme el proyecto vaya evolucionando, existe la posibilidad de incorporar otras herramientas adicionales que puedan ser necesarias para su desarrollo
  
 
 ## Planificación
