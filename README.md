@@ -21,14 +21,14 @@ La finalidad de "El Encuentro" es satisfacer las necesidades de los clientes que
 
 ## Medios Hardware y Software a Utilizar
 - **Hardware:**
-  - Portátil con 16GB de RAM, procesador i5 y 2TB de disco duro.
+  - Portátil con 16GB de RAM, procesador Intel i5 y 2TB de disco duro.
 - **Software:**
   - PHPStorm para el desarrollo del Back-End con PHP y MySQL utilizando el framework Symfony.
-  - WebStorm para el desarrollo del Front-End con React, Bootstrap 5 y CSS.
+  - WebStorm para el desarrollo del Front-End con React.JS, Bootstrap 5 y CSS3.
   - AWS EC2 para desplegar la página a través de una instancia con IP elástica.
   - Xampp para gestionar PHPmyAdmin y comprobar datos en la base de datos.
 
-Cabe destacar que en el futuro, conforme el proyecto vaya evolucionando, existe la posibilidad de incorporar otras herramientas adicionales que puedan ser necesarias para su desarrollo
+Cabe destacar que en el futuro, conforme el proyecto vaya evolucionando, existe la posibilidad de incorporar (o cambiar) otras herramientas adicionales que puedan ser necesarias para su desarrollo
  
 
 ## Planificación
