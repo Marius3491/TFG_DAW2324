@@ -10,6 +10,8 @@
 ## Introducción
 "El Encuentro" es un proyecto destinado a establecer una tienda online especializada en productos de Wizards of the Coast. La tienda tiene como objetivo principal proporcionar a los entusiastas de los juegos de esta reconocida marca una plataforma completa donde puedan encontrar una amplia gama de productos, desde cartas coleccionables hasta manuales de juegos de rol.
 
+Wizards of the Coast es una empresa de juegos de mesa y cartas conocida principalmente por crear Magic: The Gathering y Dungeons & Dragons.
+
 ## Finalidad
 La finalidad de "El Encuentro" es satisfacer las necesidades de los clientes que buscan productos de alta calidad de Wizards of the Coast, ofreciendo una experiencia de compra conveniente y segura. La tienda se propone ser el destino ideal para aquellos que deseen adquirir productos de esta marca líder en la industria del entretenimiento.
 
